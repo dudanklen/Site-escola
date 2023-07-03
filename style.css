@@ -54,6 +54,11 @@ body {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
+.escola-texto-um{
+    text-align: left;
+    padding: 24px 0;
+
+}
 .estudante-titulo{
     text-align: center;
     padding: 24px 0;
