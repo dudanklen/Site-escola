@@ -13,7 +13,7 @@
 }
 
 .cabecalho-imagem{
-    width: 25%;
+    width: 16%;
 }
 
 .cabecalho-lista-item{
@@ -23,12 +23,12 @@
 }
 
 .time-imagem{
-    width: 30%;
+    width: 45%;
 }
 
 .Time{
-    background-image: linear-gradient(#581258,#d82222);
-    color: black;
+    background-image: linear-gradient(#581258,#a51717);
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,16 +41,19 @@
 .Time-titulo{
     padding: 9%;
 }
+.Time-texto-tres{
+    padding: 9%;
+}
 
-.Jogadores-imagem{
+.Personagens-imagem{
     width: 120px;
 }
 
-.Jogador-icone{
+.Personagens-icone{
     width: 24px;
 }
 
-.Jogadores-div{
+.Personagens-div{
     text-align: center;
 }
 
@@ -59,13 +62,13 @@
     padding: 35px 0;
 }
 
-.Jogadores-todos{
+.Personagens-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
 .rodape{
-    background-color: rgb(205, 4, 4);
+    background-color: #a51717;
     text-align: center;
 }
 
